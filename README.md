@@ -1,1 +1,1 @@
-Link to the template files: https://github.com/tomitokko/django-social-media-template
+It's a Social media website made with python backend framework (Django)
